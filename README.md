@@ -1,16 +1,10 @@
-# contest
+ScreenShots of Project
+The main task here si to make a screen which has scroll view.
 
-A new Flutter project.
+1)![contest page 1](https://user-images.githubusercontent.com/79108057/224013746-e541a281-9489-43d6-8de0-69b69050cb19.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+2)![contest page 2](https://user-images.githubusercontent.com/79108057/224013813-6729133f-d96b-4d9c-8221-adcbad5b128e.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3)![contest page 3](https://user-images.githubusercontent.com/79108057/224013838-dcfae169-0e40-44a7-a6dc-26a5740e4013.jpg)
